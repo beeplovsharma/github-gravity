@@ -46027,7 +46027,7 @@ function pointsOnPath(path, tolerance, distance) {
 }
 
 const WIDTH = 300;
-const HEIGHT = 130;
+const HEIGHT = 90;
 const SCALE = 3;
 const SIZE = 4;
 const INTERVAL = 1.5;
