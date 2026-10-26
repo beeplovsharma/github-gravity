@@ -46276,7 +46276,7 @@ async function gensvg(options) {
       type="translate"
       values="${values}"
       dur="${result.stepCount * result.stepTime}ms"
-      fill="freeze"
+      fill="freeze" repeatCount="indefinite"
     />
   </g>`;
     })
