@@ -1,5 +1,5 @@
 export const WIDTH = 300
-export const HEIGHT = 150
+export const HEIGHT = 100
 export const SCALE = 3
 export const SIZE = 4
 export const INTERVAL = 1.5
